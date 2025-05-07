@@ -1,2 +1,2 @@
-# yourname-finalproject-2025
+# AlexanderRodriguez-finalproject-2025
 World Economy Web page .
