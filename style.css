@@ -1,4 +1,4 @@
- header{
+header{
   text-align: center;
   top:0;
   left:0;
@@ -8,6 +8,7 @@ background-color:#D1FFBD;
   margin:0px;
   font-family: "Times New Roman", Times, serif;
   color:darkgreen;
+     border: 3px solid darkgreen;
 }
 
 body {
@@ -22,6 +23,7 @@ body {
 nav {
   background-color:#D1FFBD;
   padding: 10px;
+     border: 3px solid darkgreen;
 }
 
 
@@ -31,6 +33,10 @@ margin: 10px;
   padding: 15px;
   background-color: #D1FFBD;
   border-radius: 15px;
+    margin-bottom: 20px;
+      border: 3px solid darkgreen;
+
+
   }
   
   .Risk{
@@ -38,14 +44,22 @@ margin: 10px;
   padding: 15px;
   background-color: #D1FFBD;
   border-radius: 15px;
-  }
+  margin-bottom: 20px;
+     border: 3px solid darkgreen;
+}
+
+  
   
   .Pros{
   margin: 10px;
   padding: 15px;
   background-color: #D1FFBD;
   border-radius: 15px;
-  }
+    margin-bottom: 20px;
+       border: 3px solid darkgreen;
+}
+
+  
   
   img {
   length:600px;
@@ -53,8 +67,12 @@ margin: 10px;
   border-radius: 15px ;
    box-shadow: 5px 10px gray;
    border: 5px solid darkgreen;
+     margin-bottom: 20px;
+}
 
-   header:hover {
+
+
+header:hover {
   color: darkgreen;
   text-decoration: underline;
 }
