@@ -1,4 +1,4 @@
-header{
+ header{
   text-align: center;
   top:0;
   left:0;
@@ -9,3 +9,18 @@ background-color:#D1FFBD;
   font-family: "Times New Roman", Times, serif;
   color:darkgreen;
 }
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #fcfcfa;
+  color: darkgreen;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav {
+  background-color:#D1FFBD;
+  padding: 10px;
+}
+
