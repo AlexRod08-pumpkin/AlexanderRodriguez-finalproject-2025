@@ -84,7 +84,7 @@ footer{
  text-align: center;
 
 }
-<!-- this is a flex container-->
+
 .flex-container {
   display: flex;
   gap: 20px;
