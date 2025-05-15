@@ -91,3 +91,27 @@ footer{
   gap: 20px;
   justify-content: space-around;
 }
+
+flex-container:hover {
+  color: darkgreen;
+  text-decoration: underline;
+    background-color: #b2d8b2;
+}
+
+Pros:hover {
+  color: darkgreen;
+  text-decoration: underline;
+    background-color: #b2d8b2;
+}
+
+nav :hover {
+  color: darkgreen;
+  text-decoration: underline;
+    background-color: #b2d8b2;
+}
+
+Benefits:hover {
+  color: darkgreen;
+  text-decoration: underline;
+    background-color: #b2d8b2;
+}
