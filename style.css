@@ -78,6 +78,7 @@ margin: 10px;
 header:hover {
   color: darkgreen;
   text-decoration: underline;
+    background-color: #b2d8b2;
 }
 
 footer{
